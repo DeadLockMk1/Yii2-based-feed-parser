@@ -1,1 +1,3 @@
-# Yii2-test
+# Yii2-based-RSS-feed-parser-site
+## Using SimplePie
+# Author DeadLockMk1
