@@ -39,7 +39,7 @@ $config = [
         ],
         'db' => require(__DIR__ . '/db.php'),
         'SimplePie' => [
-            'class' =>'components\SimplePie\SimplePie',
+//            'class' =>'components\SimplePie\SimplePie',
         ]
     ],
     'params' => $params,
